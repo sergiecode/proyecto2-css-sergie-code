@@ -4,7 +4,7 @@
 
 [PROYECTO CSS 2 LINK A WEB (NETLIFY)](https://proyecto2-css-sergiecode.netlify.app/)
 
-Podés ver el curso completo en el siguiente video: [# CSS desde cero | Curso tutorial completo gratis por Sergie Code](https://youtu.be/rTtC6Q-71qg)
+Podés ver el curso completo en el siguiente video: [CSS desde cero | Curso tutorial completo gratis por Sergie Code](https://youtu.be/rTtC6Q-71qg)
 
 ![enter image description here](https://raw.githubusercontent.com/sergiecode/proyecto2-css-sergie-code/master/assets/img/proyecto2css.png)
 
