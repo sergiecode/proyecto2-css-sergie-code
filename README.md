@@ -6,7 +6,7 @@
 
 Podés ver el curso completo en el siguiente video: [CSS desde cero | Curso tutorial completo gratis por Sergie Code](https://youtu.be/rTtC6Q-71qg)
 
-![enter image description here](https://raw.githubusercontent.com/sergiecode/proyecto2-css-sergie-code/master/assets/img/proyecto2css.png)
+![Captura de pantalla del proyecto de CSS del Curso de Sergie Code](https://raw.githubusercontent.com/sergiecode/proyecto2-css-sergie-code/master/assets/img/proyecto2css.png)
 
 Este es el repositorio de la página web que trae ejemplos de Bordes, Texto, Fondos y Animaciones, junto a links útiles para ser un gran diseñador web. Nos sirvió como ejemplo para el último proyecto del curso de CSS que hice en Youtube.
 
